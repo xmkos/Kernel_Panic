@@ -1,0 +1,28 @@
+# Unreal build output
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
+.vs/
+*.sln
+*.slnx
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+
+# AI tools and AI-generated pipeline
+.claude/
+.codex/
+.cursor/
+.mcp.json
+CLAUDE.md
+AGENTS.md
+GEMINI.md
+Tools/
+Config/DefaultEditorPerProjectUserSettings.ini
+__pycache__/
+*.log
